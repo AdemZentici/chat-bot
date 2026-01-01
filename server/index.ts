@@ -1,8 +1,10 @@
 import express from "express";
 import ChatRoute from "./routes/index.route";
+import dotenv from "dotenv"
 
 const PORT = process.env.PORT || 3000;
 
+dotenv.config();
 // ==================== instance of express app ====================
 const app = express();
 app.use(express.json());

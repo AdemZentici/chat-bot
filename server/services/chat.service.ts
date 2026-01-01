@@ -6,7 +6,7 @@ const client = new OpenAI({
 });
 
 export class ChatService {
-  async sendMessage(
+  static async sendMessage(
     prompt: string,
     conversationId: string
   ): Promise<{ id: string; message: string }> {
